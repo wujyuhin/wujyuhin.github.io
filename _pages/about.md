@@ -1,4 +1,4 @@
-![image](https://github.com/wujyuhin/wujyuhin.github.io/assets/163369287/74ecd084-e3c5-452d-b3a3-e40d5b6d3425)---
+---
 permalink: /
 title: ""
 excerpt: ""
