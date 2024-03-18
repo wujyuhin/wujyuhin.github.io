@@ -1,4 +1,4 @@
----
+![image](https://github.com/wujyuhin/wujyuhin.github.io/assets/163369287/74ecd084-e3c5-452d-b3a3-e40d5b6d3425)---
 permalink: /
 title: ""
 excerpt: ""
@@ -47,15 +47,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2022.10*,National Second Prize in THE 19TH CHINA POST-GRADUATE MATHEMATICAL CONTEST CONTEST IN MODELING
+- *2019.10*,National Second Prize in THE "Teddy Cup" National Data Mining Challenge
+- 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06 - 2025.04 (now)*, MA.Sc. in Statistics, School of Mathematics and Statistics, Central China Normal University. Advised by Prof. Bo Li
+- *2017.09 - 2021.06 *, B.Sc. in Statistics, School of Mathematics and Statistics, Central China Normal University. Advised by Prof. Bo Li
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.11 - now*, Bayer Healthcare Co., Ltd, Beijingm, China
+
+# project
+- [Lorem](https://github.com/), China.
