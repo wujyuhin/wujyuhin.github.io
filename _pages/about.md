@@ -25,8 +25,8 @@ My name is Yuqian Hu.
 - *2023.12*: &nbsp;🎉🎉 I am honored to have been awarded the National scholarship for Postgraduates
 
 # 🎖 Honors and Awards
-- *2022.10*,National Second Prize in THE 19TH CHINA POST-GRADUATE MATHEMATICAL CONTEST CONTEST IN MODELING
-- *2019.10*,National Second Prize in THE "Teddy Cup" National Data Mining Challenge
+- *2022.10*,National Second Prize in the 19th China Post-graduate Mathemetical Contest in Modeling
+- *2019.10*,National Second Prize in the 8th "Teddy Cup" National Data Mining Challenge
 
 # 📖 Educations
 - *2022.06 - 2025.04 (now)*, MA.Sc. in Statistics, School of Mathematics and Statistics, Central China Normal University. Advised by Prof. Bo Li
