@@ -28,7 +28,7 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "wujyuhin@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :  "https://wujyuhin.github.io/blog/"
@@ -58,7 +58,6 @@ author:
   xing             :
   youtube          :
   wikipedia        : 
-  blog             : "https://wujyuhin.github.io/blog/"
 
 
 # Reading Files
