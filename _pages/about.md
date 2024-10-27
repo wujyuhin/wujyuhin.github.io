@@ -22,6 +22,8 @@ My name is Yuqian Hu.I am currently a first-year Ph.D. student at the School of 
 
 My current research interests primarily include:**<span style="color:#FA7F6F">Machine Learning(ML)</span>** and **<span style="color:#8ECFC9">Meta Analysis(MA)</span>**. 
 
+I also enjoy running and badminton in my spare time.
+
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 I am honored to have been awarded the National scholarship for Postgraduates
 
