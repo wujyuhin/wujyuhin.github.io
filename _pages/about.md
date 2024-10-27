@@ -30,14 +30,14 @@ I also enjoy running and badminton in my spare time.
 # 📝 Publications
 - [Machine learning in predicting pathological complete response to neoadjuvant chemoradiotherapy in rectal cancer using MRI: a systematic review and meta-analysis](https://academic.oup.com/bjr/article/97/1159/1243/7668440?login=true)[**<span style="color:#8ECFC9">MA</span>**];British Journal of Radiology;2024
 - [Criminal Investigation Inference Model Based on Knowledge Graph and Weighted Bayesian Mechanism](https://qxyy.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=465d2cf3-31c0-4602-8f1c-c6de5edb68b1)[**<span style="color:#FA7F6F">ML</span>**];Mathematical modelling and its applications;2024
-- Optimization of the Q-Matrix in Cognitive Diagnostic Modeling base on DINA: A New Approach Combining Sample Selection and Hypothesis Testing[**<span style="color:#FA7F6F">ML</span>**];Journal of Central China Normal University Natural Sciences;
+- Optimization of the Q-Matrix in Cognitive Diagnostic Modeling base on DINA: A New Approach Combining Sample Selection and Hypothesis Testing[**<span style="color:#FA7F6F">ML</span>**];Journal of Central China Normal University Natural Sciences;Under revision
 
 
 # 🎖 Honors and Awards
 - 2023.12, National scholarship for Postgraduates
 - *2022.10*,National Second Prize in the 19th China Post-graduate Mathemetical Contest in Modeling, under the guidance of [Prof. Bo Li](https://maths.ccnu.edu.cn/info/1040/18436.htm)
 - *2021.05*, Outstanding Graduates (Undergraduate)
-- *2019.10*,National Second Prize in the 8th "Teddy Cup" National Data Mining Challenge;Under revision
+- *2019.10*,National Second Prize in the 8th "Teddy Cup" National Data Mining Challenge
 
 # 📖 Educations
 - *2022.06 - 2025.04 (now)*, MA.Sc. in Statistics, School of Mathematics and Statistics, Central China Normal University. Advised by Prof. Bo Li
