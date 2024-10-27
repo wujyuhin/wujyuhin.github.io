@@ -40,7 +40,7 @@ I also enjoy running and badminton in my spare time.
 - *2019.10*,National Second Prize in the 8th "Teddy Cup" National Data Mining Challenge
 
 # 📖 Educations
-- *2022.06 - 2025.04 (now)*, MA.Sc. in Statistics, School of Mathematics and Statistics, Central China Normal University. Advised by Prof. Bo Li
+- *2022.06 - 2025.04 *, MA.Sc. in Statistics, School of Mathematics and Statistics, Central China Normal University. Advised by Prof. Bo Li
 - *2017.09 - 2021.06 *, B.Sc. in Statistics, School of Mathematics and Statistics, Central China Normal University. Advised by Prof. Bo Li
 
 # 💻 Internships
