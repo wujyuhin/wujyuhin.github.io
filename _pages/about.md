@@ -30,7 +30,7 @@ I also enjoy running and badminton in my spare time.
 # 📝 Publications
 - [Machine learning in predicting pathological complete response to neoadjuvant chemoradiotherapy in rectal cancer using MRI: a systematic review and meta-analysis](https://academic.oup.com/bjr/article/97/1159/1243/7668440?login=true)[**<span style="color:#8ECFC9">MA</span>**];British Journal of Radiology;2024
 - [Criminal Investigation Inference Model Based on Knowledge Graph and Weighted Bayesian Mechanism](https://qxyy.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=465d2cf3-31c0-4602-8f1c-c6de5edb68b1)[**<span style="color:#FA7F6F">ML</span>**];Mathematical modelling and its applications;2024
-- An Analysis of Digital Reading Literacy Among Adolescent Students Under Expectancy Theory: A Moderated Chain Mediation Model[**<span style="color:#FA7F6F">ST</span>**];Educational Measurement and Evaluation;Accepted;2024
+- An Analysis of Digital Reading Literacy Among Adolescent Students Under Expectancy Theory: A Moderated Chain Mediation Model[**<span style="color:#4A4E8E">ST</span>**];Educational Measurement and Evaluation;Accepted;2024
 - Optimization of the Q-Matrix in Cognitive Diagnostic Modeling base on DINA: A New Approach Combining Sample Selection and Hypothesis Testing[**<span style="color:#FA7F6F">ML</span>**];Journal of Central China Normal University Natural Sciences;Accepted;2024
 - RCD: Tackling the Cold-Start Problem by Retrieval-based Cognitive Diagnosis[**<span style="color:#FA7F6F">ML</span>**];IEEE International Conference on Data Engineering (ICDE);Submitted;2025
 
