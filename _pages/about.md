@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
+# About me
 My name is Yuqian Hu.I am currently a first-year Ph.D. student at the School of Mathematics and Statistics, Central China Normal University, where I have also completed my B.Sc. and M.Sc. degrees. Throughout my academic journey, I have been consistently guided by [Prof. Bo Li](https://maths.ccnu.edu.cn/info/1040/18436.htm).
 
 My current research interests primarily include:**<span style="color:#FA7F6F">Machine Learning(ML)</span>**, **<span style="color:#8ECFC9">Meta Analysis(MA)</span>** and **<span style="color:#4A4E8E">Statistical Theory(ST)</span>**. 
