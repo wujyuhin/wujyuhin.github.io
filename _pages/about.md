@@ -30,7 +30,7 @@ I also enjoy running and badminton in my spare time.
 # 📝 Publications
 <span style="color:blue">(\*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 ## 2024
-- RCD: Tackling the Cold-Start Problem by Retrieval-based Cognitive Diagnosis**<span style="color:#FA7F6F">[ML]</span>**;IEEE International Conference on Data Engineering; Yufan Lin, **Yuqian Hu\***, Jinrui Zhang, Wenjing zhou, and Bo Li;Submitted;2025
+- RCD: Tackling the Cold-Start Problem by Retrieval-based Cognitive Diagnosis**<span style="color:#FA7F6F">[ML]</span>**;Yufan Lin, **Yuqian Hu\***, Jinrui Zhang, Wenjing zhou, and Bo Li;Submitted;2025
 - [Criminal Investigation Inference Model Based on Knowledge Graph and Weighted Bayesian Mechanism](https://qxyy.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=465d2cf3-31c0-4602-8f1c-c6de5edb68b1)**<span style="color:#FA7F6F">[ML]</span>**;Bo Li, Yong Zhang, **Yuqian Hu**$\dagger$;Mathematical modelling and its applications;2024
 - Optimization of the Q-Matrix in Cognitive Diagnostic Modeling base on DINA: A New Approach Combining Sample Selection and Hypothesis Testing**<span style="color:#FA7F6F">[ML]</span>**;Tian Yi,Bo Li, **Yuqian Hu\***Journal of Central China Normal University Natural Sciences;Accepted;2024
 - An Analysis of Digital Reading Literacy Among Adolescent Students Under Expectancy Theory: A Moderated Chain Mediation Model**<span style="color:#4A4E8E">[ST]</span>**;Bo Li, Lei Chen, Yuqian Hu;Educational Measurement and Evaluation;Accepted;2024
