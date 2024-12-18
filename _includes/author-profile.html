@@ -128,11 +128,12 @@
       <li><a href="{{ author.cv }}"><i class="fa fa-quote-left"></i> cv</a></li>
       {% endif %}
       {% if author.resume %}
-      <li><a href="{{ author.resume }}"><i class="fa fa-quote-left"></i> resume</a></li>
-      {% endif %}
-      {% if author.resume %}
       <li><a href="{{ author.cv-en}}"><i class="fa fa-quote-left"></i> cv-english</a></li>
       {% endif %}
+      {% if author.resume %}
+      <li><a href="{{ author.resume }}"><i class="fa fa-quote-left"></i> resume</a></li>
+      {% endif %}
+
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
