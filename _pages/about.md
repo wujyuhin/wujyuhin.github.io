@@ -28,11 +28,14 @@ I also enjoy running and badminton in my spare time.
 - *2023.12*: &nbsp;🎉🎉 I am honored to have been awarded the National scholarship for Postgraduates
 
 # 📝 Publications
+<span style="color:blue">(\*: Equal contribution; $\dagger$: Corresponding author(s))</span>
+## 2024
+- RCD: Tackling the Cold-Start Problem by Retrieval-based Cognitive Diagnosis**<span style="color:#FA7F6F">[ML]</span>**;IEEE International Conference on Data Engineering; Yufan Lin, **Yuqian Hu\***, Jinrui Zhang, Wenjing zhou, and Bo Li;Submitted;2025
+- [Criminal Investigation Inference Model Based on Knowledge Graph and Weighted Bayesian Mechanism](https://qxyy.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=465d2cf3-31c0-4602-8f1c-c6de5edb68b1)**<span style="color:#FA7F6F">[ML]</span>**;Bo Li, Yong Zhang, **Yuqian Hu**$\dagger$;Mathematical modelling and its applications;2024
+- Optimization of the Q-Matrix in Cognitive Diagnostic Modeling base on DINA: A New Approach Combining Sample Selection and Hypothesis Testing**<span style="color:#FA7F6F">[ML]</span>**;Tian Yi,Bo Li, **Yuqian Hu\***Journal of Central China Normal University Natural Sciences;Accepted;2024
+- An Analysis of Digital Reading Literacy Among Adolescent Students Under Expectancy Theory: A Moderated Chain Mediation Model**<span style="color:#4A4E8E">[ST]</span>**;Bo Li, Lei Chen, Yuqian Hu;Educational Measurement and Evaluation;Accepted;2024
 - [Machine learning in predicting pathological complete response to neoadjuvant chemoradiotherapy in rectal cancer using MRI: a systematic review and meta-analysis](https://academic.oup.com/bjr/article/97/1159/1243/7668440?login=true)**<span style="color:#8ECFC9">[MA]</span>**;British Journal of Radiology;2024
-- [Criminal Investigation Inference Model Based on Knowledge Graph and Weighted Bayesian Mechanism](https://qxyy.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=465d2cf3-31c0-4602-8f1c-c6de5edb68b1)**<span style="color:#FA7F6F">[ML]</span>**;Mathematical modelling and its applications;2024
-- An Analysis of Digital Reading Literacy Among Adolescent Students Under Expectancy Theory: A Moderated Chain Mediation Model**<span style="color:#4A4E8E">[ST]</span>**;Educational Measurement and Evaluation;Accepted;2024
-- Optimization of the Q-Matrix in Cognitive Diagnostic Modeling base on DINA: A New Approach Combining Sample Selection and Hypothesis Testing**<span style="color:#FA7F6F">[ML]</span>**;Journal of Central China Normal University Natural Sciences;Accepted;2024
-- RCD: Tackling the Cold-Start Problem by Retrieval-based Cognitive Diagnosis**<span style="color:#FA7F6F">[ML]</span>**;IEEE International Conference on Data Engineering (ICDE);Submitted;2025
+
 
 
 # 🎖 Honors and Awards
@@ -42,8 +45,8 @@ I also enjoy running and badminton in my spare time.
 - *2019.10*,National Second Prize in the 8th "Teddy Cup" National Data Mining Challenge
 
 # 📖 Educations
-- *2022.06 - 2025.04 *, MA.Sc. in Statistics, School of Mathematics and Statistics, Central China Normal University. Advised by Prof. Bo Li
-- *2017.09 - 2021.06 *, B.Sc. in Statistics, School of Mathematics and Statistics, Central China Normal University. Advised by Prof. Bo Li
+- *2022.06 - 2025.06 *, MA.Sc. in Statistics, [School of Mathematics and Statistics](http://maths.ccnu.edu.cn/), Central China Normal University. Advised by [Prof. Bo Li](https://maths.ccnu.edu.cn/info/1040/18436.htm)
+- *2017.09 - 2021.06 *, B.Sc. in Statistics, [School of Mathematics and Statistics](http://maths.ccnu.edu.cn/), Central China Normal University. Advised by Prof. [Prof. Bo Li](https://maths.ccnu.edu.cn/info/1040/18436.htm)
 
 # 💻 Internships
 - *2022.11 - 2024.6*, Bayer Healthcare Co., Ltd, Beijingm, China
