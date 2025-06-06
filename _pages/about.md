@@ -35,7 +35,7 @@ I also enjoy running and badminton in my spare time.
 
 ## 2024
 - [Criminal Investigation Inference Model Based on Knowledge Graph and Weighted Bayesian Mechanism](https://kns.cnki.net/kcms2/article/abstract?v=14CuGbpFC1B0Mk-uBJcczXEqzLbLJQ3XFoTKewpOAGo4pVG71iqFy0HvoQ2cJi-DHjIQ7BrZIoIsy88wbEdaFUNJSi9nWWgXS4FP5I9j-3JhSFdnJIhqGcSfLnXCfGh6y7gk63MJazDF8m8KrF1RlJdTp0Q0nqo3p0hgBJ3oYVF3IuWkDRl6D9qOGC9qaVNK&uniplatform=NZKPT&language=CHS)**<span style="color:#FA7F6F">[ML]</span>**; Bo Li, Yong Zhang, **Yuqian Hu**$\dagger$; Mathematical modelling and its applications; 2024
-- [An Analysis of Digital Reading Literacy Among Adolescent Students Under Expectancy Theory: A Moderated Chain Mediation Model](https://kns.cnki.net/kcms2/article/abstract?v=14CuGbpFC1B0Mk-uBJcczXEqzLbLJQ3XFoTKewpOAGpVShVOOFlZ9gGOP5MhNSxQDaPCo8yq14VSgCdYiWdw0K7-f3DLcVLWsJUNtYhUEr9HYSpVQNqMOkhtTAUMY0J3_h7bvo4_jwzJwLKGrUGRsRJpJmMyqoBy1QMIgFkj6oSrpnCk1m8Axy-Vmod7K5dd&uniplatform=NZKPT&language=CHS)**<span style="color:#4A4E8E">[ST]</span>**; Bo Li, Lei Chen, Yuqian Hu; Educational Measurement and Evaluation;Accepted; 2024
+- [An Analysis of Digital Reading Literacy Among Adolescent Students Under Expectancy Theory: A Moderated Chain Mediation Model]("https://github.com/wujyuhin/wujyuhin.github.io/raw/main/cv/paper2.pdf")**<span style="color:#4A4E8E">[ST]</span>**; Bo Li, Lei Chen, Yuqian Hu; Educational Measurement and Evaluation;Accepted; 2024
 - [Machine learning in predicting pathological complete response to neoadjuvant chemoradiotherapy in rectal cancer using MRI: a systematic review and meta-analysis](https://academic.oup.com/bjr/article/97/1159/1243/7668440?login=true)**<span style="color:#8ECFC9">[MA]</span>**;British Journal of Radiology;2024
 
 
